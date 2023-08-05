@@ -11,5 +11,5 @@ I am a passionate developer with a keen interest in web development and machine 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/HeT-Delwadiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/monojmkd/count.svg" />
 </p>
