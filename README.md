@@ -22,7 +22,7 @@ I'm Monoj Kumar Das, a frontend developer passionate about crafting elegant solu
 ## 🌟 Let's Connect
 I'm always open to exciting collaborations and meaningful conversations.  
 Feel free to reach out or explore my work – I'd love to hear your thoughts!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monoj-kumar-das-019340a9/)
 
 My portfolio - https://monojmkd.vercel.app/
 🌐 https://github.com/monojmkd
