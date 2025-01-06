@@ -12,7 +12,7 @@ I'm Monoj Kumar Das, a frontend developer passionate about crafting elegant solu
 ## 🌱 What I'm Working On
 - Expanding my skills in **TypeScript** and **Next.js**.
 - Contributing to open-source projects to give back to the community.  
-- Building a music-syncing smart bulb project to combine my love for tech and creativity.
+- Contributing to an OpenCV-based Machine Learning Project focused on real-time face detection and recognition. Collaborating with a team to optimize algorithms for performance and accuracy.
 
 ## 🔭 Future Goals
 - Mastering full-stack development with **Node.js** and **MongoDB**.  
