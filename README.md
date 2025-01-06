@@ -8,9 +8,14 @@ I'm Monoj Kumar Das, a frontend developer passionate about crafting elegant solu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 
 ## 🌱 What I'm Working On
-- Expanding my skills in **TypeScript** and **Next.js**.
+- Expanding my expertise in message-oriented middleware by learning and implementing RabbitMQ and Apache Kafka for real-time data streaming and robust event-driven architectures.
 - Contributing to open-source projects to give back to the community.  
 - Contributing to an OpenCV-based Machine Learning Project focused on real-time face detection and recognition. Collaborating with a team to optimize algorithms for performance and accuracy.
 
