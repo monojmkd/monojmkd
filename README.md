@@ -29,7 +29,7 @@ I'm always open to exciting collaborations and meaningful conversations.
 Feel free to reach out or explore my work – I'd love to hear your thoughts!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monoj-kumar-das-019340a9/)
 
-My portfolio - https://monojmkd.vercel.app/
+My portfolio - https://monojkumardas.in/
 🌐 https://github.com/monojmkd
 📫 monoj.mkd@hotmail.com
 
