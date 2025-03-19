@@ -15,7 +15,7 @@ I'm Monoj Kumar Das, a frontend developer passionate about crafting elegant solu
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 
 ## 🌱 What I'm Working On
-- Expanding my expertise in message-oriented middleware by learning and implementing RabbitMQ and Apache Kafka for real-time data streaming and robust event-driven architectures.
+- Expanding my expertise in backend development by diving deeper into API design, authentication & authorization (JWT, OAuth), database optimization.Additionally, I'm focusing on testing methodologies, including unit testing (Jest).
 - Contributing to open-source projects to give back to the community.  
 - Contributing to an OpenCV-based Machine Learning Project focused on real-time face detection and recognition. Collaborating with a team to optimize algorithms for performance and accuracy.
 
